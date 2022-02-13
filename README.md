@@ -1,6 +1,6 @@
 # Super Crate Box DS
 
-A very broken recreation of Super Crate Box that I made for HackNotts 21 (https://devpost.com/software/super-crate-box-ds/)
+A very broken recreation of Super Crate Box that I made for HackNotts 2021 (https://devpost.com/software/super-crate-box-ds/)
 
 First of all, **THIS RECREATION IS NOT AFFILIATED IN ANY WAY WITH THE ORIGINAL GAME OR VLAMBEER**.
 
